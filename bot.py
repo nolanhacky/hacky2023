@@ -5,8 +5,6 @@ import pandas as pd
 import ta 
 import time
 
-api_key = 's20c6FhOSUORTSgkjROWRCekmWoyMtMnV3BEbistCKvX3OUckd4vkL1WCNF6iZ5x'
-secret_key = 'vBmwXWkWTM5hfLbury8sMAfgI6Zfnw3ZLkq524Cve0KHwUpWNdeYcz21VdzTW69E'
 
 client = Client(api_key, secret_key, {"timeout": 20})
 
