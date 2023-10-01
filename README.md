@@ -1,1 +1,1 @@
-# hacky2023
+# binance_bot
